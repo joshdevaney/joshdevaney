@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web-Development Projects**
 
-- 📫 How to reach me **joshdevaney99@gmail.com**
+- 📫 How to reach me **joshdevaney.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
