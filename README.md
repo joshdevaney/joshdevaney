@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Josh Devaney</h1>
-<h3 align="center">I am a student in Technology University of The Shannon: Midlands.</h3>
+<h3 align="center">I am a recent Computer Engineering & Software Engineering graduate of Technology University of The Shannon: Midlands.</h3>
 
 - 🔭 I’m currently working on [FootyFFA](https://lastmanstanding-344e5.web.app/)
 
